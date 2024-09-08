@@ -1,5 +1,12 @@
-## Hi there 👋
+# Olá, sou o Wagner! 👋
 
+
+## 🚀 Sobre mim
+Este é um perfil reserva. Siga o principal:
+
+ - [Wagner Rafael | AIExxplorer](https://github.com/AIExxplorer)
+
+ 
 <!--
 **WagnerRafaelDev/WagnerRafaelDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
